@@ -1,0 +1,73 @@
+# 临时文件
+*.tmp
+*.bak
+*.swp
+*~
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器文件
+.vscode/
+.idea/
+*.code-workspace
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# 大文件（不应上传到 GitHub）
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# 他人项目源码（仅做索引参考，不应上传到本仓库）
+Xbotics-Embodied-Guide-main/
+Xbotics-Embodied-AI-Job-main/
+Embodied-AI-Guide-main/
+RoboTwin-main/
+Embodied_Intelligence-main/
+
+# 视频和音频文件
+*.mp4
+*.mp3
+*.wav
+*.avi
+
+# 图片文件（保留必要的示意图）
+# *.png
+# *.jpg
+# *.jpeg
+# *.gif
+
+# 数据文件
+*.csv
+*.xlsx
+*.sav
+*.spv
+
+# PDF 文件（论文原文不应上传，仅保留分析文档）
+# *.pdf
+
+# 日志文件
+*.log
+
+# 环境变量
+.env
+.env.local

@@ -1,21 +1,52 @@
-MIT License
+非商业使用许可协议（Non-Commercial Use License）
+含 CC BY-NC-SA 4.0 相同方式共享条款
 
-Copyright (c) 2026 Zicheng Xu
+版权所有 (c) 2026 具身智能学习手册作者
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+本手册基于以下项目进行扩展和深度分析，继承其许可协议中最严格的条款：
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Embodied-AI-Guide（版权所有 (c) 2025 陈天行）
+   - 许可协议：非商业使用许可协议（Non-Commercial Use License）
+   - GitHub：https://github.com/TianxingChen/Embodied-AI-Guide
+   - 联系方式：chentianxing2002@gmail.com
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Xbotics-Embodied-Guide（Xbotics 具身智能社区）
+   - 许可协议：CC BY-NC-SA 4.0（Attribution-NonCommercial-ShareAlike 4.0 International）
+   - GitHub：https://github.com/Xbotics-Embodied-AI-club/Xbotics-Embodied-Guide
+   - 注意：该仓库 README 标注为 CC BY 4.0，但实际 LICENSE 文件为 CC BY-NC-SA 4.0，
+     本手册以 LICENSE 文件为准。
+
+除非事先获得所有版权所有者的书面授权，否则禁止任何形式的商业使用。
+"商业使用"包括但不限于：
+- 将本软件或其修改版直接或间接用于营利目的；
+- 将本软件或其修改版集成到收费产品或服务中；
+- 在公司、企业、机构或其他以营利为目的的组织内部使用本软件；
+- 将本软件或其修改版用于任何产生或可能产生经济收益的活动。
+
+在满足非商业条件前提下，您可以：
+- 免费使用、复制本软件；
+- 在非商业前提下修改本软件源码；
+- 以非商业形式再分发本软件或其修改版，
+  但必须保留本版权声明和本许可条款的完整内容。
+
+相同方式共享（ShareAlike）：
+基于 CC BY-NC-SA 4.0 条款，对本手册的修改和再分发必须采用相同的许可协议
+（非商业 + 署名 + 相同方式共享）。
+
+本软件按"现状（AS IS）"提供，不附带任何明示或暗示的保证，包括但不限于
+对适销性、特定用途适用性及非侵权的保证。在任何情况下，作者均不对因使用
+本软件而产生的任何索赔、损害或其他责任负责，无论该责任是合同责任、侵权
+责任或其他形式。
+
+如需商业授权，请联系以下原作者：
+- Embodied-AI-Guide：chentianxing2002@gmail.com
+- Xbotics 社区：xbot_hc@163.com
+
+---
+
+本手册中引用的所有论文、代码、数据集等资源版权归原作者所有。
+各引用资源的版权和使用许可以其各自的原始协议为准。
+Xbotics-Embodied-AI-Job 仓库未包含 LICENSE 文件，本手册仅引用其公开信息
+进行行业趋势分析，未直接复制其原始内容。
+
+详细致谢与引用列表请见 ACKNOWLEDGMENTS.md。
