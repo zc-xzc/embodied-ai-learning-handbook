@@ -2,7 +2,7 @@
 
 > 一份系统性的具身智能（Embodied AI）学习指南，覆盖从基础理论到前沿技术、从仿真实验到真机部署的完整知识体系。整合了 1800+ 篇论文、技术文档和项目资源的深度分析。
 
-[![License: Non-Commercial](https://img.shields.io/badge/License-Non--Commercial-blue.svg)](./LICENSE)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://www.markdownguide.org/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
 
@@ -81,14 +81,14 @@ CV/NLP 转向：02.2 Transformer → 02.3 Diffusion → 04.1 VLA 模型 → 06 �
 
 ## 许可证
 
-本项目采用 [非商业使用许可协议 + CC BY-NC-SA 4.0](./LICENSE)，继承自：
+本项目采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)（Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International）许可协议，继承自：
 
 - Embodied-AI-Guide（非商业使用许可协议）
 - Xbotics-Embodied-Guide（CC BY-NC-SA 4.0）
 
 - 允许：免费使用、复制、修改、再分发（非商业）
 - 禁止：任何形式的商业使用
-- 要求：保留版权声明和许可条款 + 相同方式共享（ShareAlike）
+- 要求：署名 + 相同方式共享（ShareAlike）+ 保留版权声明和许可条款
 
 如需商业授权，请联系：
 - Embodied-AI-Guide：chentianxing2002@gmail.com
